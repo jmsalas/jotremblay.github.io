@@ -1,7 +1,7 @@
 ---
-layout: blog
+layout: table
 title: Injury Surveillance Software Solutions for Clinicians
-menu: true
+menu: false
 order: 1
-published: false
+published: true
 ---

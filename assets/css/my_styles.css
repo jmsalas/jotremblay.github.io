@@ -1,0 +1,8 @@
+body{
+  overflow-x: visible;
+}
+
+.content-simple{
+  margin: 2rem;
+  overflow: visible;
+}
